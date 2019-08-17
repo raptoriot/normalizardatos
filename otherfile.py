@@ -2,3 +2,4 @@
 
 def other_method():
     print("este es otro metodo.")
+    print("fin")
